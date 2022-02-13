@@ -203,15 +203,10 @@ let Login = {
         return /*html*/ `
             <section class="section">
                 <div class="field">
-                   
                         <input class="input" id="user_input" type="text" placeholder="User">
-                      
                 </div>
                 <div class="field">
-                   
                         <input class="input" id="pass_input" type="password" placeholder="Password">
-                        
-                    
                 </div>
                
                 <div class="field">
